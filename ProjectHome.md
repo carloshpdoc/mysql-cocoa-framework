@@ -1,0 +1,3 @@
+This program is a standard API for connecting Cocoa applications to MySQL.
+
+The codebase was originally written by Serge Cohen and found at https://sourceforge.net/projects/mysql-cocoa/. He seems to have abandoned the project.  The latest release of the project was in February 2006 and there was for PPC only.  I wanted to make sure there was a Universal Binary version was available to anyone who wanted to use this library.  It's a Universal Binary with support for PPC, PPC64, i386, and x86\_64.
